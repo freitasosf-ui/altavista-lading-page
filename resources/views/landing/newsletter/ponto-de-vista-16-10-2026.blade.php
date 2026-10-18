@@ -317,6 +317,56 @@
             </tr>
 
             <tr>
+              <td align="center" class="pad-tight" style="padding:4px 22px 14px 22px;">
+                <img src="{{ asset('img/ponto-de-vista-mercados-16-10-2026.png') }}"
+                     alt="Ibovespa em queda de 1,74% aos 205.430 pontos, curva de juros futuros em alta, IFIX −1,22% e dólar de volta acima de R$ 5,00"
+                     width="536"
+                     style="display:block; border:0; max-width:100%; height:auto; border-radius:10px; margin:0 auto;">
+                <p style="margin:8px 0 0 0; font-size:11px; line-height:1.5; color:#718096; font-family:Arial, sans-serif; text-align:center;">
+                  Ibovespa, curva de juros futuros, IFIX e dólar na semana (16/10/2026)
+                </p>
+              </td>
+            </tr>
+
+            <tr>
+              <td align="left" class="pad-page" style="padding:2px 30px 16px 30px;">
+                <p style="margin:0 0 10px 0; font-size:17px; font-weight:bold; color:#0a1628; font-family:Arial, sans-serif;">
+                  🧠 O Ponto de Vista da Alta Vista
+                </p>
+                <p style="margin:0 0 8px 0; font-size:13px; line-height:1.7; color:#4a5568; font-family:Arial, sans-serif;">
+                  O 1º turno abriu uma janela de oportunidades; o 2º turno decide se ela segue aberta ou se inverte. Com empate técnico e a 6x1 no radar, o mercado devolveu parte do prêmio, sem desfazer outubro: o Ibovespa ainda sobe 10,24% no mês.
+                </p>
+                <p style="margin:0 0 8px 0; font-size:13px; line-height:1.7; color:#4a5568; font-family:Arial, sans-serif;">
+                  Até o fim das eleições, a expectativa é de volatilidade, dado o preço da incerteza. Disciplina e uma carteira estruturada de acordo com o perfil de risco adequado, como sempre, vale mais que aposta binária.
+                </p>
+              </td>
+            </tr>
+
+            <tr>
+              <td align="center" class="pad-tight" style="padding:2px 22px 16px 22px;">
+                <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#0a1628; border-radius:14px;">
+                  <tr>
+                    <td style="padding:16px 18px;">
+                      <p style="margin:0 0 10px 0; font-size:12px; letter-spacing:1.2px; text-transform:uppercase; color:#c9a227; font-family:Arial, sans-serif; font-weight:bold;">
+                        📅 O Que Observar na Próxima Semana
+                      </p>
+                      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>18/10: debate da Band, às 20h.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>19/10: Boletim Focus e IGP-10.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>20/10: balanços de Netflix e GM; imóveis nos EUA.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>21/10: balanços de Tesla e Meta.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>22/10: reunião do CMN.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>23/10: IPCA-15, PMIs dos EUA e debate da Globo.</strong></td></tr>
+                        <tr><td style="padding:2px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">* <strong>25/10: 2º turno das eleições.</strong></td></tr>
+                        <tr><td style="padding:6px 0 4px 0; font-size:13px; line-height:1.6; color:#edf2f7; font-family:Arial, sans-serif;">Após o segundo turno, Fed decide juros em 28/10, o que gera um componente adicional de volatilidade no curto prazo.</td></tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <tr>
               <td align="center" class="pad-tight" style="padding:10px 22px 14px 22px;">
                 <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#ecfdf5; border-radius:14px; border:1px solid #a7f3d0; border-left:4px solid #25D366;">
                   <tr>
