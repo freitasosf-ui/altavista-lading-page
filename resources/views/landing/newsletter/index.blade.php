@@ -2,6 +2,11 @@
   /* Ao publicar nova edição: inclua rota em routes/web.php e um item aqui (mais recente primeiro). */
   $edicoes = [
     [
+      'slug' => 'ponto-de-vista-16-10-2026',
+      'periodo' => 'Semana de 12 a 16 de outubro de 2026',
+      'resumo' => 'Rali eleitoral pausa com empate técnico no 2º turno, Congresso promulga o fim da escala 6x1, Ibovespa cai 1,74% e Nasdaq recua 4,48% com temor sobre a dívida das empresas de IA.',
+    ],
+    [
       'slug' => 'ponto-de-vista-09-10-2026',
       'periodo' => 'Semana de 05 a 09 de outubro de 2026',
       'resumo' => 'Flávio Bolsonaro lidera o 1º turno e vai ao 2º em 25/10, Ibovespa renova recorde aos 209 mil pontos (+8,82%), dólar abaixo de R$ 5 e IPCA acima do teto da meta.',
