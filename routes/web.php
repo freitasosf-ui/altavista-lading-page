@@ -41,6 +41,8 @@ Route::view('/hans-haendchen', 'landing.parceiros.hans-haendchen');
 Route::view('/hans-haendchen/obrigado', 'landing.parceiros.hans-haendchen-obrigado');
 Route::view('/fb-advogados', 'landing.parceiros.fb-advogados');
 Route::view('/fb-advogados/obrigado', 'landing.parceiros.fb-advogados-obrigado');
+Route::view('/razao-contabilidade', 'landing.parceiros.razao-contabilidade');
+Route::view('/razao-contabilidade/obrigado', 'landing.parceiros.razao-contabilidade-obrigado');
 Route::view('/irpfm-webinar', 'landing.conteudos.irpfm-webinar');
 Route::view('/irpfm-webinar/obrigado', 'landing.conteudos.irpfm-webinar-obrigado');
 Route::view('/evento-impacto-social', 'landing.eventos.evento-impacto-social');
