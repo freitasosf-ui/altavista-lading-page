@@ -464,7 +464,7 @@
                     </div>
                 </div>
                 <div class="partnership-badge">📋 Uso Interno</div>
-                <h1>Registro de <span>Reuniões</span></h1>
+                <h1>Registro de Reuniões de <span>Consultoria</span></h1>
                 <p class="mb-0">Ferramenta exclusiva para os assessores da Alta Vista registrarem as reuniões de Consultoria com clientes e potenciais clientes.</p>
             </div>
         </div>
