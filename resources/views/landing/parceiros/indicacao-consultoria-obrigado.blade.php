@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Indicação Registrada - Consultoria Alta Vista</title>
+    <title>Reunião Registrada - Consultoria Alta Vista</title>
     <link rel="icon" type="image/png" href="/img/favicon-96x96.png">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -140,25 +140,25 @@
                 <i class="bi bi-check-circle-fill"></i>
             </div>
             
-            <h1>Indicação Registrada com Sucesso!</h1>
+            <h1>Reunião Registrada com Sucesso!</h1>
             
             <p class="description">
-                Obrigado pela indicação! Os dados do lead foram enviados com sucesso para a <strong>Consultoria</strong>.
+                Obrigado por registrar a reunião! Os dados foram enviados com sucesso para a <strong>Consultoria</strong>.
             </p>
             
             <p class="description">
-                O time da Consultoria entrará em contato com o interessado em breve.
+                O time da Consultoria acompanhará a evolução da oportunidade e os próximos passos acordados.
             </p>
             
             <a href="/indicacao-consultoria" class="btn-primary">
                 <i class="bi bi-plus-circle me-2"></i>
-                Indicar Outro Lead
+                Registrar Outra Reunião
             </a>
             
             <div class="info-box">
                 <p>
                     <i class="bi bi-info-circle me-2"></i>
-                    <strong>Dica:</strong> Você pode cadastrar quantos leads desejar. Cada indicação será processada e encaminhada automaticamente para a Consultoria.
+                    <strong>Dica:</strong> Você pode registrar quantas reuniões desejar. Cada registro será processado e encaminhado automaticamente para a Consultoria.
                 </p>
             </div>
         </div>

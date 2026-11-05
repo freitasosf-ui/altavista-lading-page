@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Indicação de Leads para Consultoria | Alta Vista</title>
+    <title>Registro de Reuniões | Consultoria Alta Vista</title>
     <link rel="icon" type="image/png" href="/img/favicon-96x96.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
@@ -463,9 +463,9 @@
                         <img src="/img/ASSINATURA-HORIZONTAIS-LIGHT-XP.png" alt="Alta Vista Logo" style="max-width:300px; width:100%">
                     </div>
                 </div>
-                <div class="partnership-badge">🤝 Indicação Interna</div>
-                <h1>Indicação para <span>Consultoria</span></h1>
-                <p class="mb-0">Ferramenta exclusiva para os assessores da Alta Vista indicarem leads e clientes para a Consultoria.</p>
+                <div class="partnership-badge">📋 Uso Interno</div>
+                <h1>Registro de <span>Reuniões</span></h1>
+                <p class="mb-0">Ferramenta exclusiva para os assessores da Alta Vista registrarem as reuniões de Consultoria com clientes e potenciais clientes.</p>
             </div>
         </div>
     </section>
@@ -475,19 +475,28 @@
         <div class="info-box">
             <h4>
                 <i class="bi bi-info-circle"></i>
-                Como usar esta ferramenta
+                Registro e Acompanhamento de Reuniões
             </h4>
+            <p style="margin-bottom:1rem;">
+                Esta ferramenta foi desenvolvida para centralizar as informações das reuniões realizadas pelos assessores da Alta Vista com clientes e potenciais clientes interessados nos serviços de Consultoria.
+            </p>
+            <p style="margin-bottom:1rem;">
+                <strong>Após cada reunião, o assessor responsável deverá preencher o formulário abaixo</strong>, registrando as informações do atendimento, as oportunidades identificadas e os próximos passos acordados.
+            </p>
+            <p style="margin-bottom:1rem;">
+                Esses registros permitirão acompanhar a evolução das oportunidades, monitorar as taxas de conversão, identificar demandas recorrentes e mensurar os resultados comerciais da área.
+            </p>
             <p>
-                Esta página foi desenvolvida exclusivamente para os <strong>assessores da Alta Vista</strong> indicarem leads e clientes para a <strong>Consultoria</strong>. Quando você identificar um cliente ou contato com demanda para a Consultoria, preencha o formulário abaixo com os dados do lead. Os dados serão enviados automaticamente para o time responsável, que entrará em contato com o interessado.
+                <strong>Mais do que registrar reuniões, queremos transformar informações em oportunidades e oportunidades em resultados.</strong>
             </p>
         </div>
     </section>
 
-    <!-- Formulário de Cadastro de Lead -->
+    <!-- Formulário de Registro de Reunião -->
     <section class="container">
         <div class="lead-section">
-            <h2 class="text-center mb-3 heading-accent">Indicar Novo Lead</h2>
-            <p class="text-center mb-4" style="color:#666; font-size:1.05rem;">Preencha os dados do lead ou cliente que você quer indicar para a Consultoria. Os dados serão enviados para o time responsável, que entrará em contato.</p>
+            <h2 class="text-center mb-3 heading-accent">Registrar Nova Reunião</h2>
+            <p class="text-center mb-4" style="color:#666; font-size:1.05rem;">Preencha os dados da reunião realizada: informações do atendimento, oportunidades identificadas e próximos passos acordados. Os dados serão enviados para o time responsável.</p>
             
             <!-- HubSpot Form -->
             <div class="hs-form-frame" data-region="na1" data-form-id="024f6384-b7be-4dde-a3ad-dff916ca20a7" data-portal-id="21698044"></div>

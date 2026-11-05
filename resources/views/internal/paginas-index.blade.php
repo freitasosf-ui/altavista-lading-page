@@ -304,8 +304,8 @@
                     <tr data-type="parceiros"><td>FB Advogados – Obrigado <span class="pill">parceiros</span></td><td><a href="/fb-advogados/obrigado" target="_blank" rel="noopener">/fb-advogados/obrigado</a></td></tr>
                     <tr data-type="parceiros"><td>Razão Contabilidade <span class="pill">parceiros</span></td><td><a href="/razao-contabilidade" target="_blank" rel="noopener">/razao-contabilidade</a></td></tr>
                     <tr data-type="parceiros"><td>Razão Contabilidade – Obrigado <span class="pill">parceiros</span></td><td><a href="/razao-contabilidade/obrigado" target="_blank" rel="noopener">/razao-contabilidade/obrigado</a></td></tr>
-                    <tr data-type="parceiros"><td>Indicação para Consultoria (assessores) <span class="pill">parceiros</span></td><td><a href="/indicacao-consultoria" target="_blank" rel="noopener">/indicacao-consultoria</a></td></tr>
-                    <tr data-type="parceiros"><td>Indicação para Consultoria – Obrigado <span class="pill">parceiros</span></td><td><a href="/indicacao-consultoria/obrigado" target="_blank" rel="noopener">/indicacao-consultoria/obrigado</a></td></tr>
+                    <tr data-type="parceiros"><td>Registro de Reuniões – Consultoria (assessores) <span class="pill">parceiros</span></td><td><a href="/indicacao-consultoria" target="_blank" rel="noopener">/indicacao-consultoria</a></td></tr>
+                    <tr data-type="parceiros"><td>Registro de Reuniões – Consultoria – Obrigado <span class="pill">parceiros</span></td><td><a href="/indicacao-consultoria/obrigado" target="_blank" rel="noopener">/indicacao-consultoria/obrigado</a></td></tr>
                 </tbody>
             </table>
         </section>
